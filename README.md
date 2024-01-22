@@ -1,5 +1,3 @@
 # Shopify
 
-Repository to shopigy sync project
-
-New scope soon
+Repository to shopify sync project
