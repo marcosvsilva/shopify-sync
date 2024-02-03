@@ -1,4 +1,4 @@
-#£ Shopify
+## Shopify
 
 ### Overview
 
