@@ -58,7 +58,3 @@ This web service is licensed under the [MIT License](LICENSE). Feel free to modi
 ### Support and Contribution
 
 For support or to contribute to the development of this application, please open an issue or submit a pull request on the [GitHub repository](https://github.com/marcosvsilva/shopify-sync).
-
----
-
-Feel free to customize this README.md template according to your specific implementation details and requirements.
