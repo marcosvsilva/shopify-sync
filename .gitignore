@@ -13,7 +13,7 @@ x64/
 [Bb]in/
 [Oo]bj/
 
-# Code files
+# VSCode files
 .vscode/
 
 # MSTest test Results
