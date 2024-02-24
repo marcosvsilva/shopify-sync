@@ -14,7 +14,7 @@ x64/
 [Oo]bj/
 
 # Code files
-.vscode
+.vscode/
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
